@@ -1,4 +1,4 @@
-package com.programming.techie.authcode;
+package com.sb.aarthi.authcode;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

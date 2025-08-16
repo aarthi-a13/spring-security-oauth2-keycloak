@@ -1,12 +1,13 @@
-package com.programming.techie.pkce;
+package com.sb.aarthi.microservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Oauth2PKCEDemoApplication {
+public class MicroserviceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Oauth2PKCEDemoApplication.class, args);
+        SpringApplication.run(MicroserviceApplication.class, args);
     }
+
 }
