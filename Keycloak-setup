@@ -1,0 +1,17 @@
+Keycloak
+===============
+To start the server
+-------------------
+Open this path cmd
+D:\Softwares\keycloak-26.3.2\keycloak-26.3.2\bin
+
+Type - kc.bat start-dev --http-port=8180
+
+Goto for admin setup -> http://localhost:8180/
+Current admin creds:
+user: admin
+password: admin
+
+Admin console: http://localhost:8180/admin/master/console/
+
+video: https://www.youtube.com/watch?v=_0oXZKr97ro
